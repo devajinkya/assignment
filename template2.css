@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.vm {
+    width: 800px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url('img3.jpg');
+}
+
+.header {
+    margin-top: 25px;
+    text-transform: uppercase;
+    color: #ab1d1d;
+}
+
+.navigation {
+    padding: 15px;
+    list-style: none;
+    float: right;
+}
+
+.navigation li {
+    float: left;
+    padding: 5px;
+}
+
+.navigation li a {
+    text-decoration: none;
+    color: #ab1d1d;
+    text-transform: capitalize;
+}
+
+.navigation li a.active {
+    color: #d92121;
+}
+
+.navigation li a:hover {
+    color: #d92121;
+}
+
+.bannerSection {
+    padding: 50px;
+    text-align: center;
+    background-image: url('https://via.placeholder.com/600x200');
+    background-size: cover;
+    background-position: center;
+}
+
+.getStartedSection {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.getStartedSection a {
+    color: #ab1d1d;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.vs {
+    width: 800px;
+    height: 200px;
+    background-color: lightgray;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tp {
+    padding: 30px;
+    padding-left: 100px;
+    float: left;
+}
+
+.clearFix {
+    clear: both;
+}
+
+
+
+.zx {
+    text-align: center;
+}
+
+.xy img {
+    width: 150px;
+    height: 100px;
+}
+
+.xy {
+    padding: 40px;
+    float: left;
+}
+
+.ip {
+    width: 800px;
+    height: 500px;
+    background-color: gray;
+}
+
+.ip h4 {
+    text-align: center;
+}
+
+.ip h2 {
+    text-align: center;
+}
+
+.ip table {
+    width: 790px;
+    height: 400px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ip td {
+    text-align: center;
+
+}
